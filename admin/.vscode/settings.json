@@ -1,0 +1,6 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "[typescriptreact]": {
+        "editor.autoClosingBrackets": "always"
+    }
+}
